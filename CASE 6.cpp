@@ -1,6 +1,6 @@
 /*Purpose 	:Program to display the int and char variables for the given object. 
 Language	:C++
-Author  	: Manikanta Yelisetti
+Author  	: syama
 Date    	: 11/04/2020
 */
 using namespace std;
